@@ -127,7 +127,7 @@ public Properties p;
 	
 	public String captureScreen(String tname)throws IOException
 	{
-		String timeStamp = new SimpleDateFormat("yyyy.mm.dd.HH.mm.ss").format(new Date(0)); // Create time stamp...
+		String timeStamp = new SimpleDateFormat("yyyy.mm.dd.HH.mm.ss").format(new java.util.Date()); // Create time stamp...
 		TakesScreenshot takeScreenshot = (TakesScreenshot)driver;
 		File sourcefile = takeScreenshot.getScreenshotAs(OutputType.FILE);
 		
