@@ -1,0 +1,7 @@
+2025-01-06 18:17:40.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclips_Workspace_2024\OpencartV121\master.xml
+
+2025-01-06 18:17:44.087 [main] INFO  testCases.TC002LoginTest - ******* Startng TC_002 Login text ******
+2025-01-06 18:17:45.519 [main] INFO  testCases.TC002LoginTest - ******* Finished TC_002 Login text ******
+2025-01-06 18:18:11.398 [main] INFO  testCases.TC002LoginTest - ******* Startng TC_002 Login text ******
+2025-01-06 18:18:12.804 [main] INFO  testCases.TC002LoginTest - ******* Finished TC_002 Login text ******
