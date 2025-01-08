@@ -8,3 +8,5 @@
 2025-01-07 16:33:46.112 [main] INFO  testCases.TC001AccountRegistrationTest - Validating expected message after registering...
 2025-01-07 16:33:48.512 [main] INFO  testCases.TC002LoginTest - ******* Startng TC_002 Login text ******
 2025-01-07 16:33:50.065 [main] INFO  testCases.TC002LoginTest - ******* Finished TC_002 Login text ******
+2025-01-07 21:28:40.941 [main] INFO  testCases.TC002LoginTest - ******* Startng TC_002 Login text ******
+2025-01-07 21:28:42.411 [main] INFO  testCases.TC002LoginTest - ******* Finished TC_002 Login text ******
